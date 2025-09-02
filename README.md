@@ -4,3 +4,4 @@ skahagjljlskj
 staging area : waiting room
 git pull: bring changes from the remote branch
 --rebase: instead of merging, git puts your local commits "on top" of the remote ones (keeps history linear.)
+git log --oneline --decorate --graph --all -- README.md
